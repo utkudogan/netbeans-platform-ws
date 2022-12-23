@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.utkudogan.devicedomain">
+    <module_version install_time="1671807400753" last="true" origin="installer" specification_version="1.0">
+        <file crc="4073387817" name="config/Modules/com-utkudogan-devicedomain.xml"/>
+        <file crc="3344720510" name="modules/com-utkudogan-devicedomain.jar"/>
+    </module_version>
+</module>

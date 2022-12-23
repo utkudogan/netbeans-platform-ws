@@ -1,0 +1,9 @@
+C:\Program Files\NetBeans-12.6\netbeans\platform=1637574826000
+cluster.D:/u/netbeans-projects/device-manager/build/cluster=1671807401054
+cluster.C:/Program Files/NetBeans-12.6/netbeans/platform=1637574826000
+user=1671807401054
+crc=7
+locale=en_US
+branding=device_manager
+java.version=1.8.0_281
+java.vm.version=25.281-b09
