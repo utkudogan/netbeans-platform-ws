@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.utkudogan.viewer">
+    <module_version install_time="1671807401036" last="true" origin="installer" specification_version="1.0">
+        <file crc="1772309477" name="config/Modules/com-utkudogan-viewer.xml"/>
+        <file crc="3240201770" name="modules/com-utkudogan-viewer.jar"/>
+    </module_version>
+</module>
