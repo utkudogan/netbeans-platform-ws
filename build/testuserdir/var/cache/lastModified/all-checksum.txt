@@ -1,9 +1,9 @@
-C:\Program Files\NetBeans-12.6\netbeans\platform=1637574826000
-cluster.D:/u/netbeans-projects/device-manager/build/cluster=1671807401054
-cluster.C:/Program Files/NetBeans-12.6/netbeans/platform=1637574826000
-user=1671807401054
+C:\Program Files\NetBeans-15\netbeans\platform=1661513418000
+cluster.C:/Users/utku/Desktop/u/Yazilim/netbeans/netbeans-platform-ws/build/cluster=1671969667835
+cluster.C:/Program Files/NetBeans-15/netbeans/platform=1661513418000
+user=1671969667835
 crc=7
-locale=en_US
+locale=tr_TR
 branding=device_manager
-java.version=1.8.0_281
-java.vm.version=25.281-b09
+java.version=11.0.13
+java.vm.version=11.0.13+10-LTS-370

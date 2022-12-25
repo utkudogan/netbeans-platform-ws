@@ -45,5 +45,7 @@
     <toolbar configuration="Standard" preferred-icon-size="24"/>
     <tc-list>
   <tc-id id="DeviceViewerTopComponent"/>
+  <tc-id id="properties"/>
+  <tc-id id="DeviceEditorTopComponent"/>
     </tc-list>
 </windowmanager>

@@ -9,6 +9,7 @@ import org.netbeans.api.settings.ConvertAsProperties;
 import org.openide.awt.ActionID;
 import org.openide.awt.ActionReference;
 import org.openide.explorer.ExplorerManager;
+import org.openide.explorer.ExplorerUtils;
 import org.openide.explorer.view.BeanTreeView;
 import org.openide.explorer.view.IconView;
 import org.openide.nodes.AbstractNode;
@@ -66,7 +67,7 @@ public final class DeviceViewerTopComponent extends TopComponent implements Expl
         add(deviceViewer, BorderLayout.CENTER);
         add(iconViewer, BorderLayout.EAST);
 
-        associateLookup(Lookup.EMPTY);
+        associateLookup(ExplorerUtils.createLookup(em, getActionMap()));
     }
 
     /**

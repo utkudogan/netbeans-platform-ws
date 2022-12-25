@@ -1,6 +1,8 @@
 ||:com.utkudogan.viewer.DeviceNode
 com.utkudogan.viewer.DeviceNode
+org.openide.nodes.Children
 com.utkudogan.devicedomain.Device
+org.openide.util.lookup.Lookups
 org.openide.nodes.BeanNode
 java.beans.IntrospectionException
 ||:com.utkudogan.viewer.DeviceChildFactory
@@ -13,6 +15,7 @@ org.openide.nodes.ChildFactory
 java.beans.IntrospectionException
 ||:com.utkudogan.viewer.DeviceViewerTopComponent
 org.openide.windows.TopComponent
+org.openide.util.Lookup
 java.util.Properties
 org.openide.nodes.Children
 javax.swing.GroupLayout$Alignment
@@ -29,6 +32,7 @@ javax.swing.GroupLayout$ParallelGroup
 com.utkudogan.viewer.DeviceViewerTopComponent
 java.awt.BorderLayout
 org.openide.nodes.AbstractNode
+org.openide.explorer.view.IconView
 ||:com.utkudogan.viewer.Bundle
 java.lang.Object
 org.openide.util.NbBundle

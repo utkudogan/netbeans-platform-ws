@@ -5,10 +5,7 @@
             <folder name="com_utkudogan_viewer">
                 <file name="DeviceViewer" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
                     <!--com.utkudogan.viewer.DeviceViewerTopComponent-->
-                    
-                
-                
-                <attr name="hint.originalPublicID" stringvalue="-//com.utkudogan.viewer//DeviceViewer//EN"/>
+                    <attr name="hint.originalPublicID" stringvalue="-//com.utkudogan.viewer//DeviceViewer//EN"/>
                 </file>
             </folder>
         </folder>
@@ -18,10 +15,7 @@
                     <folder name="viewer">
                         <file name="DeviceViewerTopComponent">
                             <!--com.utkudogan.viewer.DeviceViewerTopComponent-->
-                            
-                        
-                        
-                        <attr name="settings.providerPath" stringvalue="xml/lookups//com_utkudogan_viewer/DeviceViewer.instance"/>
+                            <attr name="settings.providerPath" stringvalue="xml/lookups//com_utkudogan_viewer/DeviceViewer.instance"/>
                         </file>
                     </folder>
                 </folder>
@@ -31,22 +25,7 @@
             <folder name="com_utkudogan_viewer">
                 <file name="DeviceViewer.instance">
                     <!--com.utkudogan.viewer.DeviceViewerTopComponent-->
-                    
-                    
-                    
-                    
-                    
-                
-                    
-                    
-                    
-                    
-                
-                    
-                    
-                    
-                    
-                <attr methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
                     <attr methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
                     <attr name="settings.instanceClass" stringvalue="com.utkudogan.viewer.DeviceViewerTopComponent"/>
                     <attr name="settings.instanceOf" stringvalue="com.utkudogan.viewer.DeviceViewerTopComponent"/>
@@ -59,33 +38,34 @@
         <folder name="Window">
             <file name="com-utkudogan-viewer-DeviceViewerTopComponent.shadow">
                 <!--com.utkudogan.viewer.DeviceViewerTopComponent-->
-                
-            
-            
-            <attr name="originalFile" stringvalue="Actions/Window/com-utkudogan-viewer-DeviceViewerTopComponent.instance"/>
+                <attr name="originalFile" stringvalue="Actions/Window/com-utkudogan-viewer-DeviceViewerTopComponent.instance"/>
             </file>
         </folder>
     </folder>
     <folder name="Windows2">
         <folder name="Components">
             <file name="DeviceViewerTopComponent.settings">
-                <!--com.utkudogan.viewer.DeviceViewerTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+                <!--com.utkudogan.viewer.DeviceViewerTopComponent-->
+                <![CDATA[<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
 <settings version="1.0">
   <instance class="com.utkudogan.viewer.DeviceViewerTopComponent"/>
 </settings>
-]]></file>
+]]>
+            </file>
         </folder>
         <folder name="Modes">
             <folder name="explorer">
                 <file name="DeviceViewerTopComponent.wstcref">
-                    <!--com.utkudogan.viewer.DeviceViewerTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+                    <!--com.utkudogan.viewer.DeviceViewerTopComponent-->
+                    <![CDATA[<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
 <tc-ref version="2.0">
   <tc-id id="DeviceViewerTopComponent"/>
   <state opened="true"/>
 </tc-ref>
-]]></file>
+]]>
+                </file>
             </folder>
         </folder>
     </folder>
@@ -93,19 +73,7 @@
         <folder name="Window">
             <file name="com-utkudogan-viewer-DeviceViewerTopComponent.instance">
                 <!--com.utkudogan.viewer.DeviceViewerTopComponent-->
-                
-                
-                
-                
-            
-                
-                
-                
-            
-                
-                
-                
-            <attr methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
                 <attr name="component" newvalue="com.utkudogan.viewer.DeviceViewerTopComponent"/>
                 <attr name="preferredID" stringvalue="DeviceViewerTopComponent"/>
                 <attr bundlevalue="com.utkudogan.viewer.Bundle#CTL_DeviceViewerAction" name="displayName"/>
