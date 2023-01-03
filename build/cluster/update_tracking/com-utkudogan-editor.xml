@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.utkudogan.editor">
+    <module_version install_time="1671969667478" last="true" origin="installer" specification_version="1.0">
+        <file crc="938392430" name="config/Modules/com-utkudogan-editor.xml"/>
+        <file crc="2694371793" name="modules/com-utkudogan-editor.jar"/>
+    </module_version>
+</module>
